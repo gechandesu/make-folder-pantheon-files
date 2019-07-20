@@ -1,0 +1,6 @@
+[Contractor Entry]
+Name=Создать папку из...
+Icon=folder
+Description=Create folder with objects...
+MimeType=inode;application/x-sh;application/x-executable;
+Exec=/home/gd/.scripts/make-folder-with %f
