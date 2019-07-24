@@ -16,5 +16,5 @@ sudo ./install.sh
 One-liner:
 
 ```
-sudo wget https://raw.githubusercontent.com/gechandesu/make-folder-pantheon-files/master/install.sh; chmod +x install.sh; exec install.sh
+sudo wget https://raw.githubusercontent.com/gechandesu/make-folder-pantheon-files/master/install.sh; chmod +x install.sh; exec ./install.sh
 ```
