@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mkdir ~/.make-folder-with
 wget -P ~/.make-folder-with https:// raw.githubusercontent.com/gechandesu/make-folder-pantheon-files/master/make-folder-with
 sudo chmod +x ~/.make-folder-with/make-folder-with
