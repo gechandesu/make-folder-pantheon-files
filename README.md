@@ -18,4 +18,21 @@ One-liner:
 ```
 sudo wget https://raw.githubusercontent.com/gechandesu/make-folder-pantheon-files/master/install.sh; chmod +x INSTALL.sh; exec ./INSTALL.sh
 ```
-##Or
+
+## Or
+
+Move `make-folder-with.contract` to `~/.local/share/contractor`.
+
+```
+mv make-folder-with.contract ~/.local/share/contractor
+```
+
+Place `make-folder-with` in some folder and give it execute rights. 
+
+```
+chmod +x make-folder-with
+```
+
+Uncomment the last string in `make-folder-with.contract` and write the full path to `make-folder-with` script.
+
+Done! 
