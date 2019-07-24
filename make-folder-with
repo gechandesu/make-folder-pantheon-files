@@ -15,5 +15,4 @@ BASENAME=$(basename "$1") #получаем именафайлов и папок
 
 cd $DIR
 mkdir Папка
-cp -R $BASENAME $DIR/Папка
-
+mv $BASENAME $DIR/Папка
