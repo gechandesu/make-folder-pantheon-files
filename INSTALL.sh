@@ -6,4 +6,4 @@ sudo chmod +x ~/.make-folder-with/make-folder-with
 
 mkdir ~/.local/share/contractor
 wget - P ~/.local/share/contractor https://raw.githubusercontent.com/gechandesu/make-folder-pantheon-files/master/make-folder-with.contract
-echo 'Exec=/home/'$USER'/.make-folder-with/make-folder-with %f' > ~/.local/share/contractor/make-folder-with.contract
+echo 'Exec=/home/'$USER'/.make-folder-with/make-folder-with %f' >> ~/.local/share/contractor/make-folder-with.contract
