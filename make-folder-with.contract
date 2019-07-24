@@ -2,5 +2,5 @@
 Name=Создать папку из...
 Icon=folder
 Description=Create folder with objects...
-MimeType=inode;application/x-sh;application/x-executable;
+MimeType=inode;application;audio;example;image;message;model;multipart;text;video;
 Exec=/home/gd/.scripts/make-folder-with %f
