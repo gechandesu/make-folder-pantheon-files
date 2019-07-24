@@ -16,10 +16,10 @@ sudo ./INSTALL.sh
 One-liner:
 
 ```
-sudo wget https://raw.githubusercontent.com/gechandesu/make-folder-pantheon-files/master/install.sh; chmod +x INSTALL.sh; exec ./INSTALL.sh
+wget https://raw.githubusercontent.com/gechandesu/make-folder-pantheon-files/master/install.sh; sudo chmod +x INSTALL.sh; exec ./INSTALL.sh
 ```
 
-## Or
+## Manual installation
 
 Move `make-folder-with.contract` to `~/.local/share/contractor`.
 
