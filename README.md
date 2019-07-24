@@ -1,4 +1,4 @@
-# create-folder-pantheon-files
+# make-folder-pantheon-files
 
 This script adds the function to create folders from selected objects like in Nautilus in [pantheon-files](https://github.com/elementary/files). 
 
