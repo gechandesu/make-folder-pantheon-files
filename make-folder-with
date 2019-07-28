@@ -13,6 +13,6 @@
 DIR=$(dirname "$1") #получаем имя текущего каталога
 BASENAME=$(basename "$1") #получаем именафайлов и папок
 
-cd $DIR
+cd "$DIR" || return
 mkdir Папка
-mv $BASENAME $DIR/Папка
+mv "$BASENAME" "$DIR"/Папка
