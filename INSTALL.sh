@@ -2,7 +2,7 @@
 
 mkdir $HOME/.make-folder-with
 wget -P $HOME/.make-folder-with https:// raw.githubusercontent.com/gechandesu/make-folder-pantheon-files/master/make-folder-with
-sudo chmod +x $HOME/.make-folder-with/make-folder-with
+chmod +x $HOME/.make-folder-with/make-folder-with
 
 mkdir ~/.local/share/contractor
 wget -P $HOME/.local/share/contractor https://raw.githubusercontent.com/gechandesu/make-folder-pantheon-files/master/make-folder-with.contract
