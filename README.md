@@ -6,17 +6,15 @@ This script adds the function to create folders from selected objects like in Na
 
 # Install
 
-Run the `INSTALL.sh`.
-
 ```
 chmod +x INSTALL.sh
 ./INSTALL.sh
 ```
 
-One-liner:
+One-line installatin:
 
 ```
-wget https://raw.githubusercontent.com/gechandesu/make-folder-pantheon-files/master/INSTALL.sh; sudo chmod +x INSTALL.sh; exec ./INSTALL.sh
+wget https://raw.githubusercontent.com/gechandesu/make-folder-pantheon-files/master/INSTALL.sh; chmod +x INSTALL.sh; exec ./INSTALL.sh
 ```
 
 ## Manual installation
