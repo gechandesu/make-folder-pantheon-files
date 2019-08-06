@@ -11,7 +11,7 @@ chmod +x INSTALL.sh
 ./INSTALL.sh
 ```
 
-One-line installatin:
+One-liner:
 
 ```
 wget https://raw.githubusercontent.com/gechandesu/make-folder-pantheon-files/master/INSTALL.sh; chmod +x INSTALL.sh; exec ./INSTALL.sh
