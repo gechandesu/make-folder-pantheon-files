@@ -6,11 +6,11 @@ This script adds the function to create folders from selected objects like in Na
 
 # Install
 
-Run the `INSTALL.sh` as root
+Run the `INSTALL.sh`.
 
 ```
-sudo chmod +x INSTALL.sh
-sudo ./INSTALL.sh
+chmod +x INSTALL.sh
+./INSTALL.sh
 ```
 
 One-liner:
